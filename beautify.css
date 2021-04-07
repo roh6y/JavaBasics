@@ -1,0 +1,37 @@
+.Var{
+color: blue;
+font-size: 120%;
+}
+
+.colo{
+color: green;
+}
+h1{
+  padding: 40px 0 40px 0;
+  font-family: 'Sacramento', cursive;
+}
+
+hr {
+	border: dotted red 8px;
+	border-bottom: none;
+	margin: 68px auto;
+	width: 6%;
+
+}
+
+body{
+background-color: #8fd6e1
+}
+
+h2{
+	font-family: "Arial";
+	text-decoration: underline;
+}
+
+#copyright{
+	padding-top: 20px;
+}
+#ulset{
+font-family: "Arial";
+
+}
